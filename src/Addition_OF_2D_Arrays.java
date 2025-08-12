@@ -1,4 +1,4 @@
-public class git Addition_OF_2D_Arrays {
+public class Addition_OF_2D_Arrays {
     public static void main(String[] args) {
         int[][] arr1 = {{1,2,3},{1,2,3},{1,2,3}};
         int[][] arr2 = {{1,2,3},{1,2,3},{1,2,3}};
